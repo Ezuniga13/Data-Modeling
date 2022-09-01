@@ -1,4 +1,4 @@
-# Database Star Schema and ETL Pipeline for Sparkify's analytics team
+# Database Star Schema and ETL Pipeline for Sparkify's Analytics Team
 
 Esteban Zuniga <br>
 August 30, 2022 <br>
@@ -29,7 +29,7 @@ I've defined fact(songplays) and dimension(users, songs, time, artistis) tables 
 7. Test the tables again with the test notebook. 
 8. To start over you can always run -- python create_tables.py
 
-### Files in the epository
+### Files in the repository
 
 - sql_queries.py <br>
   This script contains all SQL queries, create and insert statements saved in python variables.
