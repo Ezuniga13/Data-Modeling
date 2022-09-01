@@ -20,7 +20,7 @@ I've defined fact(songplays) and dimension(users, songs, time, artistis) tables 
 
 **Steps**
 
-1. Bring the all the files in your root directory.
+1. Bring all the files in your root directory.
 2. In the command terminal move into the root directory.
 3. Run create_tables.py with this command -- python create_tables.py
 4. To test if tables have been created open the test.ipynb and run the cells. Be sure to close connection by restarting kernel.
