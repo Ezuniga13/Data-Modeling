@@ -1,4 +1,4 @@
-# Database star schema and ETL pipeline for Sparkify's analytics team
+# Database Star Schema and ETL Pipeline for Sparkify's analytics team
 
 Esteban Zuniga <br>
 August 30, 2022 <br>
