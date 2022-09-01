@@ -31,7 +31,7 @@ I've defined fact(songplays) and dimension(users, songs, time, artistis) tables 
 
 ### Files in the epository
 
-- sql_queries.py 
+- sql_queries.py <br>
   This script contains all SQL queries, create and insert statements saved in python variables.
   You will not need to run this script but it needs to be in the same directory that create_tables.py is because we will be importing modules 
   from it.
