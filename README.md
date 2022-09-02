@@ -1,4 +1,4 @@
-# Database Star Schema and ETL pipeline for Sparkify's Snalytics Team
+# Star Schema Database and ETL pipeline for Sparkify's Analytics Team
 
 Esteban Zuniga <br>
 August 30, 2022 <br>
@@ -52,7 +52,7 @@ I've defined fact(songplays) and dimension(users, songs, time, artists) tables f
     This is the actual etl pipeline that processes our song and log files into working pipelines that transfers data into our table for analysis.
 
 
-### Star Schema Design and ETL pipeline
+### Star Schema Design and ETL pipelinee
 
 The schema is designed for the analytics team to get insights on what songs their users are listening to and to improve performance by reducing the number of joins.
 
